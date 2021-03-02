@@ -1,0 +1,11 @@
+/task 8/shapes/shapes.sln
+/task 8/shapes/figure/obj
+/task 8/shapes/figure/figure.csproj
+/task 8/shapes/figure/bin
+/task 8/shapes/shapes/shapes.csproj
+/task 8/shapes/shapes/bin
+/task 8/shapes/shapes/obj
+/task 8/shapes/shapes.XUnitTests/obj
+/task 8/shapes/shapes.XUnitTests/shapes.XUnitTests.csproj
+/task 8/shapes/shapes.XUnitTests/bin
+/task 8/shapes/.vs
